@@ -1,0 +1,8 @@
+Room 1 occupied by Kalana.
+Room 2 occupied by Udeshi.
+Room 3 occupied by Harsha.
+Room 4 occupied by Himesh.
+Room 5 occupied by Kasun.
+Room 6 occupied by none.
+Room 7 occupied by Sasindi.
+Room 8 occupied by Chithara.
