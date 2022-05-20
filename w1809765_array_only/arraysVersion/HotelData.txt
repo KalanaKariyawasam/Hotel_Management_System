@@ -1,0 +1,8 @@
+Room 1 occupied by Kalana.
+Room 2 occupied by Udeshi.
+Room 3 occupied by Harsha.
+Room 4 occupied by Nadeesha.
+Room 5 occupied by none.
+Room 6 occupied by Himesh.
+Room 7 occupied by Dan.
+Room 8 occupied by Chithara.
